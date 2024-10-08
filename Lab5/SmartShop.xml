@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="SmartShop.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<products>
+    <product id="P1">
+        <name>Electronics</name>
+        <price>99990</price>
+        <description>Samsung Galaxy Z-Fold</description>
+    </product>
+    <product id="P2">
+        <name>Book</name>
+        <price>30</price>
+        <description>To Kill a Mockingbird</description>
+    </product>
+    <product id="P3">
+        <name>Clothing</name>
+        <price>150</price>
+        <description>Blazer - Black</description>
+    </product>
+    <product id="P4">
+        <name>Clothing</name>
+        <price>50</price>
+        <description>Chickankari Kurti - Blue</description>
+    </product>
+</products>
